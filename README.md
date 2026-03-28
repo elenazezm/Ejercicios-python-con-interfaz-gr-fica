@@ -1,1 +1,1 @@
-Ejercicios de programación con interfaz gráfica desarrollados en Python con Tkinter.
+Ejercicios de programación con interfaz gráfica desarrollados en Python, act primer parcial
